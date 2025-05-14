@@ -1,0 +1,3 @@
+      3 I understand the Operating system.
+      1 Thanks xv6.
+      2 I love to work on OS.
